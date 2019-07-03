@@ -1,6 +1,5 @@
-*~
-.DS_Store
-.sass-cache
-_site
-__pycache__
-data
+*checkpoint*
+*.Copy*.*
+*_pycache_*
+.nfs*
+
